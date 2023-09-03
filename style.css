@@ -9,7 +9,6 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    /* background-color: blue; */
     padding: 10px 20px;
 }
 .game{
@@ -67,7 +66,6 @@
 .bb-0{
     border-bottom: 0;
 }
-
 
 @media screen and (max-width:800px) {
     .game{
